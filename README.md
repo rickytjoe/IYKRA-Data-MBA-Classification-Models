@@ -1,2 +1,2 @@
-# IYKRA-Data-MBA-Clustering-
+# IYKRA-Data-MBA-Algorithms
 part of Data MBA Tasks
