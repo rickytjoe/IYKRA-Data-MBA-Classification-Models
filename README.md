@@ -1,2 +1,2 @@
-# IYKRA-Data-MBA-Algorithms
+# IYKRA-Data-MBA-Classification Models
 part of Data MBA Tasks
